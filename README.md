@@ -1,7 +1,7 @@
 im going to send out a file to each group.
 Your job will be to add something to the file or change something and submit it for review on github with a pull request.
-!!! You will not push to Master !!!
 
+!!! You will not push to Master !!!
 
 group 1 index.html{
 
