@@ -9,6 +9,7 @@ add the following links and script to the title:
 
     <link rel="stylesheet" href="./css/style.css" />
     <script type="text/javascript" src="./script.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Bad+Script|Julius+Sans+One" rel="stylesheet">
 
     define the purpose of the following in rocketchat of what these commands do:
 
@@ -51,7 +52,7 @@ group 4 script {
     let toggleText = true;
 
     define the purpose of the following in rocketchat of what these commands do:
-    git checkout -
+    git checkout "branchName"-
     git checkout -b -
 
 }
