@@ -41,21 +41,13 @@ body {
   height: 50px;
   margin: 0 auto;
   z-index: 3;
-<<<<<<< HEAD
-=======
-  padding-top: 20px;
->>>>>>> bb916ab992c8a5e78549f4880dba2ea52c80c275
 }
 .Main-Container {
   position: relative;
   z-index: 3;
   display: flex;
   margin: 0 auto;
-<<<<<<< HEAD
   min-height: 600px;
-=======
-  min-height: 550px;
->>>>>>> bb916ab992c8a5e78549f4880dba2ea52c80c275
   width: 90%;
   z-index: 3;
 }
@@ -70,22 +62,14 @@ body {
 .box-1 {
   position: relative;
   z-index: 3;
-<<<<<<< HEAD
   padding: 40px;
-=======
-  padding: 20px;
->>>>>>> bb916ab992c8a5e78549f4880dba2ea52c80c275
   margin-right: 5px;
 }
 
 .box-3 {
   position: relative;
   z-index: 3;
-<<<<<<< HEAD
   padding: 40px;
-=======
-  padding: 20px;
->>>>>>> bb916ab992c8a5e78549f4880dba2ea52c80c275
   margin-left: 5px;
 }
 
@@ -133,12 +117,7 @@ body {
 }
 .button-div {
   text-align: center;
-<<<<<<< HEAD
   margin: 10px;
-=======
-  margin-top: 10px;
-  padding-bottom: 20px;
->>>>>>> bb916ab992c8a5e78549f4880dba2ea52c80c275
   position: relative;
   z-index: 3;
 }
