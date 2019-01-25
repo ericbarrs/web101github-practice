@@ -16,7 +16,7 @@ header {
 }
 body {
   position: relative;
-  background-image: url("../img/img1.JPG") no-repeat center center;
+  background-image: url("./img/img2.jpg") no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
