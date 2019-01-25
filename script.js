@@ -1,5 +1,5 @@
-let toggle = false;
-let toggleText = false;
+let toggle = true;
+let toggleText = true;
 
 function myFunc() {
   if (toggleText) {
